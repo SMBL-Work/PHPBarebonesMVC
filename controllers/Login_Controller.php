@@ -6,4 +6,4 @@ use models\Login_Model;
 class Login_Controller extends Login_Model{
 
 }
-include_once '../FunctionFinder.php';
+include_once '../ControllerFunctionFinder.php';
